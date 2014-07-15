@@ -10,6 +10,6 @@
   ],
   "license": "BSD",
   "styles": [
-    "pure.css"
+    "grids-responsive.css"
   ]
 }
